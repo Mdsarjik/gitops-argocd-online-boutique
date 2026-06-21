@@ -1,4 +1,3 @@
-@"
 # GitOps Continuous Delivery with ArgoCD on AWS EKS
 
 ## Overview
